@@ -1,0 +1,22 @@
+body{
+	background-color: peachpuff;
+}
+
+h1{
+font-size: 30px;
+color: FireBrick;
+}
+h2{
+color: orange;
+font-size: 20px;
+}
+.big{
+font-size: 40px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+
+h1 span{
+color: red
+}
